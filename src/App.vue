@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="app-background"></div>
-    <header class="app-header">LoCoMan Music</header>
+    <header class="app-header">LoCo Man Music</header>
     <div class="app-nav">
       <router-link to="/">Home</router-link>
     </div>
