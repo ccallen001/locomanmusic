@@ -13,7 +13,7 @@
 .view-home {
   .reverb-nation-player {
     display: block;
-    margin: 0 auto;
+    margin: 16px auto;
     width: 300px;
     height: 390px;
   }
