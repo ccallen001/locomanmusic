@@ -26,7 +26,7 @@
     z-index: -1;
     width: 100%;
     height: 100%;
-    background: url("https://steamuserimages-a.akamaihd.net/ugc/921427477594349929/06096042B4C75B57A239B34187E05129DCDAC5E4/")
+    background: url("./assets/images/app-background.gif")
       no-repeat center / cover;
     filter: blur(2px);
     opacity: 0.2;

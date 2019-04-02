@@ -12,11 +12,11 @@
 <style lang="scss" scoped>
 .view-home {
   .reverb-nation-player {
-  display: block;
-  margin: 0 auto 2rem;
-  width: 300px;
-  height: 390px
-}
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: 390px;
+  }
 }
 </style>
 
